@@ -71,7 +71,7 @@ The market share growth in the area where I took in charge was twice of the nati
 # **Machine Learning** (Python software)
 
 ## Predictive Bank Marketing
-   Click [here](  ) to see the detail information
+   Click [here](https://github.com/s3645072/Machine-Learning-by-Python/blob/master/Predictive%20Bank%20Marketing%20using%20Bank-addition-full%20Data.ipynb) to see the detail information
    Data source is [here](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
    
    
@@ -88,12 +88,13 @@ The market share growth in the area where I took in charge was twice of the nati
 # **BAYESIAN STATISTIC** (R software with JAGS)
 
 ## Property price prediction
-   Click [here](      ) to see detail information
+   Click [here](https://github.com/s3645072/Applied-Bayesian-Statistic/blob/master/MATH2269_Assignment2_s3645072_ShitingYin.pdf) to see detail information
    Data source is [here](https://www.kaggle.com/shivam2503/diamonds)
    
 ## Diamond price prediction
-   Click [here](      ) to see detail information
+   Click [here](https://github.com/s3645072/Applied-Bayesian-Statistic/blob/master/Final_Project_s3645072_Shiting%20Yin.pdf) to see detail information
    This property data given by Lecturer of Analytics, PHD, Haydar Demirhan
+
 
 ![multiset](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-08-27 at 8.19.20 pm.png)
 
