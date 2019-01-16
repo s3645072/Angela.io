@@ -20,7 +20,8 @@ Bachelor of Statistic	     Sep 2009 – Jul 2013
 
 # **Working Experience**
 
-The details could be seen in [Resume](https://github.com/s3645072/Resume_Angela/blob/master/Resume_Angela.pdf)
+The details could be seen in [Resume](https://github.com/s3645072/Resume_Angela/blob/master/Resume_Angela.pdf)  
+
 
 # **Machine Learning** (R software)
 
