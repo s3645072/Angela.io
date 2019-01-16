@@ -29,10 +29,15 @@ Data Science Department  	Nov 2018 – Jan 2019
 Worked on bank dataset to classify new instance. This project finished individually, choosing a topic and then applying knowledge relate to machine learning to get good performance for classifier. 
 
 •	Choosing topic, and search for relate dataset (bank data come from UCI)
+
 •	Understanding data details, and got idea that should be done for project
+
 •	Data cleaning and exploration with statistic information (sklearn package)
+
 •	Data Visualisation on each feature on both population and different target class
+
 •	Modelling with classification algorithms, include K Nearest Neighbors, Logistic Regression and Random Forest
+
 •	Evaluating models based on accuracy, confusion matrix, ROC curve and AUC area
 
 ### Achievement
@@ -47,11 +52,17 @@ Data Science Department           Jul 2018 – Nov 2018
 Worked with teammates come from RMIT and Data scientist of Coles to learn patterns for baby category data, analysis common features in each group, and assign a reasonable name for each group.
  
 •	Extract relative dataset from SQL, include transaction, products and customers information
+
 •	Pre-processing data to suitable form and values for modelling
+
 •	Analysis data with data visualisation
+
 •	Modelling on dataset with different algorithms, include Kmeans, Decision Tree and DBScan. Cause by the high dimension, trying PCA as well.
+
 •	Profiling, concatenate modelling result and demographic information to analysis common features in each group
+
 •	Scoring, based on modelling result, assigning reasonable label (which cluster) for left dataset, then see the performance on population
+
 •	Giving potential customer segments for baby category, and providing some suggestions 
 
 ### Achievement
@@ -66,8 +77,11 @@ Lodging Partner Service Department	Dec 2013 – Jan 2017
 Worked with teammates and director in Shaanxi Province, doing basic analysis on sale dataset for the whole province. Servicing on hundreds of hotels, based on data, giving suggestion to improve checking room nights.
 
 •	Data reduction and analysis (EXCEL) for the whole market in Shaanxi province
+
 •	Collecting information of competitive partners
+
 •	Supervising and making statistical analysis of the promotion and the sales process
+
 •	Responsible for the systematic training of new interns
 
 ### Achievement
