@@ -1,4 +1,3 @@
-![Angela](rmit-s3645072-ShiTing-Yin.github.io/images/IMG_0582.jpg)
 
 Click [here](https://github.com/s3645072) to view more information about my github
 
@@ -7,13 +6,13 @@ ShiTing Yin
 puluowangsiyin@gmail.com
 
 # **Education**
-RMIT University	    Melbourne, Australia
+RMIT University                        Melbourne, Australia
 
 Master of Analytics	Jul 2017 – Jun 2019
 
 •	GPA: 4.0
 
-Xi’an University of Finance and Economics 	    Xi’an, China
+Xi’an University of Finance and Economics      Xi’an, China
 
 Bachelor of Statistic	     Sep 2009 – Jul 2013
 
@@ -106,11 +105,3 @@ The market share growth in the area where I took in charge was twice of the nati
    
    This property data given by Lecturer of Analytics, PHD, Haydar Demirhan
 
-
-![multiset](rmit-s3598284-JiaQi-Tang.github.io/images/Screen Shot 2018-08-27 at 8.19.20 pm.png)
-
-## [5.UML-ELEVATOR SYSTEM](https://github.com/rmit-s3598284-JiaQi-Tang/Elevator)
-
-![elevator uml](rmit-s3598284-JiaQi-Tang.github.io/images/ELEVATOR SYSTEM.png)
-
-## [6.TO BE CONTINUE..](https://github.com/rmit-s3598284-JiaQi-Tang)
