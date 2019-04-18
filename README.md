@@ -56,10 +56,10 @@ The details could be seen in [Resume](https://github.com/s3645072/Resume_Angela/
 ## Property price prediction
    Click [here](https://github.com/s3645072/Applied-Bayesian-Statistic/blob/master/MATH2269_Assignment2_s3645072_ShitingYin.pdf) to see detail information
    
-   Data source is [here](https://www.kaggle.com/shivam2503/diamonds)
+   This property data given by Lecturer of Analytics, PHD, Haydar Demirhan
    
 ## Diamond price prediction
    Click [here](https://github.com/s3645072/Applied-Bayesian-Statistic/blob/master/Final_Project_s3645072_Shiting%20Yin.pdf) to see detail information
    
-   This property data given by Lecturer of Analytics, PHD, Haydar Demirhan
+   Data source is [here](https://www.kaggle.com/shivam2503/diamonds)
 
