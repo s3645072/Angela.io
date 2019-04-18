@@ -25,7 +25,7 @@ The details could be seen in [Resume](https://github.com/s3645072/Resume_Angela/
 
 # **Machine Learning** (R software)
 
-## Potencial Customer Segments on Baby Category
+## Potential Customer Segments on Baby Category
    Click [here](https://github.com/s3645072/Coles-Project-Intern) to see the final report and PPT
    
    Data source: this data extracted by Coles dataset using SQL
